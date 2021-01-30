@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC3235S
+D CC3235S and CC3235SF SimpleLink™ Wi-Fi®, Dual-Band, Single-Chip Solution
+K CC3235S, CC3235SF
+F https://www.ti.com/product/CC3235SF
+$ENDCMP
+#
+#End Doc Library
