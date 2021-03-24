@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RTC6608OSP
+D RTC6608OSP 0.03 GHz  6.0 GHz SPDT Switch.
+F https://datasheet.lcsc.com/szlcsc/2001071811_RichWave-RTC6608OSP_C474872.pdf
+$ENDCMP
+#
+#End Doc Library

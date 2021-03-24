@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF8545ATT_AJ
+D LCD Drivers UniversalLCD driver multiplex up to 1:8
+F http://www.nxp.com/docs/en/data-sheet/PCF8545.pdf
+$ENDCMP
+#
+#End Doc Library
